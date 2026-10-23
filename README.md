@@ -1,0 +1,28 @@
+# Xavier Barberà
+
+
+**From building sites to cloud infrastructure.**
+
+Licensed architect and construction site manager with 10 years in the building industry, now retraining as a DevOps / Cloud engineer. Based in Lleida, Spain.
+
+For seven years I ran construction sites: plans, budgets, subcontractors, deadlines and safety. DevOps is the same job in a different material:
+
+| On site | In the cloud |
+|---|---|
+| Construction drawings | Infrastructure as Code |
+| Sequencing crews and suppliers | CI/CD pipelines |
+| Inspections and safety checks | Monitoring and alerting |
+
+### Now
+- DevOps foundations: Linux, Git, networking, Docker (TechWorld with Nana DevOps Bootcamp)
+- Next: intensive DevOps & Cloud bootcamp, then **AWS Solutions Architect – Associate** and **CKA**
+
+### Where to look
+- **Pinned repositories** below: finished projects
+- **[kybrn-labs](https://github.com/kybrn-labs)**: course work and hands-on exercises
+
+### Contact
+[kybrn.dev](https://kybrn.dev) · [general@kybrn.dev](mailto:general@kybrn.dev) · [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+<!-- TODO: replace YOUR-PROFILE with your LinkedIn username -->
+
+Open to junior DevOps / Cloud roles from 2027: on-site in Lleida, hybrid in Barcelona or remote.
