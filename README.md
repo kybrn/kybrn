@@ -14,15 +14,14 @@ For seven years I ran construction sites: plans, budgets, subcontractors, deadli
 | Inspections and safety checks | Monitoring and alerting |
 
 ### Now
-- DevOps foundations: Linux, Git, networking, Docker (TechWorld with Nana DevOps Bootcamp)
-- Next: intensive DevOps & Cloud bootcamp, then **AWS Solutions Architect – Associate** and **CKA**
+- Studying an intensive DevOps & Cloud bootcamp, alongside the TechWorld with Nana DevOps Bootcamp (Linux, Git, networking, Docker)
+- Next: **AWS Solutions Architect – Associate** and **CKA**
 
 ### Where to look
 - **Pinned repositories** below: finished projects
 - **[kybrn-labs](https://github.com/kybrn-labs)**: course work and hands-on exercises
 
 ### Contact
-[kybrn.dev](https://kybrn.dev) · [general@kybrn.dev](mailto:general@kybrn.dev) · [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
-<!-- TODO: replace YOUR-PROFILE with your LinkedIn username -->
+[kybrn.dev](https://kybrn.dev) · [general@kybrn.dev](mailto:general@kybrn.dev) · [LinkedIn](https://www.linkedin.com/in/xavier-barber%C3%A0-179090446)
 
 Open to junior DevOps / Cloud roles from 2027: on-site in Lleida, hybrid in Barcelona or remote.
